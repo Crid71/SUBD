@@ -23,7 +23,7 @@ print(f"{name} start programming at {datetime.now()}")
 ```
    Програма вивела значення "Igor start programming at 2022-11-14 23:40:17.508031":
 
-![alt text] https://github.com/Crid71/SUBD/blob/main/lab1/srclab1/Lab%201.jpg "Результат")
+![alt text](https://github.com/Crid71/SUBD/blob/main/lab1/srclab1/Lab%201.jpg "Результат")
 
 
 ### Висновок: 
