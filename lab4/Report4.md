@@ -8,7 +8,6 @@
 
 ![alt text](https://github.com/Crid71/SUBD/blob/main/lab4/srclab4/4.2.png "Результат")
 
-
 Інстальовані бібліотеки:
 Встановив requests.
 
